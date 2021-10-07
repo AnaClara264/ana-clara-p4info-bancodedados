@@ -1,0 +1,11 @@
+1) MODELAGEM CONCEITUAL
+Um esquema conceitual do banco e dados é feito com base nos requisitos dados pelo cliente, criando uma descrição da estutura (conteúdo de informações).
+
+
+2) PROJETO LÓGICO
+Onde é mapeado o conceito dos modelos de entidade-relacionamento em objetivos de bancos de dados e criado os modelos internos de bancoss de dados.
+É um modelo conceitual com mais detalhes de banco de dados e não somente conceitos.
+
+3) PROJETO FÍSICO
+Nessa fase é trabalhado a otimização do desempenho do banco de dados e onde se define os detalhes técnicos da implementação do banco de dados.
+Inclusive essa etapa é fortemente ligada ao SGBD que será usado.
