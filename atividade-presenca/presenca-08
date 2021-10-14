@@ -1,0 +1,29 @@
+a) TABELA
+Armazena os dados em linhas e colunas.
+
+b) CHAVE PRIMÁRIA
+Vai distinguir um registro de outro, para que não haja dois registro iguais. Essa informaçãos vai ser
+atribuida a uma coluna.
+
+c) CHAVE ESTRANGEIRA
+É uma coluna (assim como na chave primária) que vai estabelecer relação com outra parte da tabela.
+
+d) CHAVE ATERNATIVA
+Valor que poderia ter sido atribuido como uma chave primária, mas não foi.
+
+e) DOMÍNO DA COLUNA
+Dado usado na coluna de uma tabela.
+
+f) INTEGRIDADE DE DOMÍNIO
+Definir que dados deve ser usado em que coluna. Deve ser sempre do tipo que for definido
+para aquela determinada coluna.
+
+g) INTEGRIDADE DE VAZIO
+É sobre ser obrigatório colocar alguma coisa na coluna ou não.
+
+h) INTEGRIDADE DE CHAVE
+O valor colocado em uma chave primária deve ser único. Uma PRIMARY KEY tem qye ter um valor 
+não nulo (NOT NULL).
+
+i) Integridade Referencial
+Um valor de uma tabela precisa dos valores de outra tabela premeditada.
