@@ -1,0 +1,29 @@
+a) Exemplifique e conceitue Cardinalidade Máxima e Cardinalidade Mínima
+A CARDINALIDADE MÍNIMA é a quantidade mínima de ocorrências de entidades que podem ser 
+associadas com outra ocorrência de identidade.
+
+EXEMPLO: Imagine uma empresa, onde existem n cargos. Levando em consideração que um empregado 
+só pode ocupar um desses cargos. Ele pode ser associado a no mínimo um cargo, estando no setor da 
+empresa a cardinalidade mínima 0.
+
+A CARDINALIDADE MÁXIMA é a quantidade máxima de instâncias de entidades que podem ser 
+associadas com outras intâncias de identidade.
+
+EXEMPLO: Imagine um super mercado, onde existem n produtos. A pessoa que vai ao super mercado pode 
+pegar o máximo que ela puder. Existe a cardinalidade máxima 1, que é o produto que só pode ser 
+associado a no máximo uma pessoa.
+
+b) Explique um exemplo de uma cardinalidade 1:1;
+Imagine uma professora que trabalha de tarde em uma turma de uma escola. Ela não pode trabalhar 
+em outro lugar de tarde, nem a escola vai contratar outra pessoa para dar aula nessa turma de 
+tarde. Sendo assim, uma associação 1 : 1.
+
+c) Explique um exemplo de uma cardinalidade 1:n;
+Novamente o exemplo do super mercado. Nele existem n produtos. A pessoa que vai ao super mercado pode 
+pegar o máximo que ela quiser. Mas o produto só pode ser associado a no máximo uma pessoa. Sendo
+assim, uma associação 1 : n.
+
+d) Explique um exemplo de uma cardinalidade n:n.
+Imagine que um aluno estude em n escolas (ensino médio, inglês, teatro, futebol, etc). 
+Esse aluno pode estudar onde ele puder. E essas escolas podem ensinar a n aulos. Sendo assim,
+uma associação 1 : n
