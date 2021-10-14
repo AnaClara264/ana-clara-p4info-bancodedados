@@ -1,0 +1,11 @@
+a) Demonstre uma Entidade Associativa e descreva seus atributos.
+Usems a relação entre Clara e Ana Claudia.
+Criamos a entidade CLARA_ANA.
+
+Ela possuirá então os atributos:
+-ID_clara (chave estrangeira relacionada com a chave primária de ana)
+-ID_ana (chave estrangeira relacionada com a chave primária de clara)
+-aptos (apartamentos dados pela Ana Claudia)
+-irmandade (relação e irmãs entre Clara e Ana Claudia)
+Nesse caso, a chave primária seria formada pelos atributos IR_ana e
+ID_clara.
