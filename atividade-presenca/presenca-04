@@ -1,0 +1,20 @@
+a) ENTIDADE
+Objetos que pertecem a realidade modelada, que se quer informações.
+
+b) RELACIONAMENTO
+Relações e associações entre entidades.
+
+c) ATRIBUTO
+São dados associados à intância de entidade, que descrevem a entidade.
+
+d) DOMÍNIO DE UM ATRIBUTO
+Espécie de dado atribuído ao atributo.
+
+e) GENERALIZAÇÃO/ESPECIALIZAÇÃO
+Um conjunto de propriedades atribuidas a um subconjunto de ocorrências da entidade genética.
+
+f) ENTIDADE ASSSOCIATIVA
+Relacionamento que se torna uma entidade.
+
+g) CARDINALIDADE DE UM ATRIBUTO 
+Associação de instâncias diferentes de entidades diferentes.
