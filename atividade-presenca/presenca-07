@@ -1,0 +1,4 @@
+"Um Modelo deve refletir o seu aspecto temporal".
+
+Um Banco de Dados precisa ter informações atuais, que podem ser modificadas de acordo com a necessidade.
+Ou seja, dados que precisam ser atualizados com o tempo, devem ser matidos atualizados no Banco de Dados.
