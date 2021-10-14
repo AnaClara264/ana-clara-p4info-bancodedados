@@ -1,0 +1,26 @@
+-> DEFININDO A TABELA
+CREATE TABLE "ana" (
+"ID" INTEGER NOT NULL,
+"nome" varchar(50) NOT NULL,
+"aptos" varchar(255) NOT NULL,
+PRIMARY KEY("ID" AUTOINCREMENT)
+)
+
+-> INSERINDO DADOS NA TABELA
+(Create)
+INSERT INTO ana (nome, aptos) VALUES
+("Clara", "Senador Pompeu"),
+("Ana Clara", "Beira mar"),
+("João Vítor", "Alpha Ville");
+
+-> VIZUALIZANDO OS DADOS DA TABELA
+(Read)
+SELECT * FROM suserano;
+
+-> ATUALIZANDO OS DADOS DA TABELA
+(Update)
+UPDATE ana set nome = "Lauro" where ID = 1;
+
+-> DELETANDO DADOS DA TABELA
+(Delete)
+DELETE FROM ana WHERE ID = 2;
